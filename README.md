@@ -8,10 +8,7 @@ Covid Detection System is built using Deep Learning to detect covid infection in
 Model use concept of Transfer Learning with Pre-trained VGG16 model architecture.
 
 ## Preview
-<p>
-<video width="640" height="380" controls autoplay src="Images/Covid Detection.webm" type="video/mp4">
-</video>
-</p>
+
 
 # Installations
 Follow steps to use this project:
@@ -51,12 +48,12 @@ python covid-detection.py
 
  Training Accuracy: 86.50%, Training Loss: 19.05%, Testing Accuracy: 95.77%, Testing Loss: 6.87%
 <p>
-  <img src="Images/Accuracy.png" width="350" alt="Accuracy">
+  <img src="Git Assets/Accuracy.png" width="350" alt="Accuracy">
 </p>
 
-Model gave 99% accuracy for Face Mask Detection after training
+Model gave 87% accuracy for Covid Detection after training
 <p>
-  <img src="Images/Classification Report.png" width="350" alt="Classification Report">
+  <img src="Git Assets/Classification Report.png" width="350" alt="Classification Report">
 </p>
 
 
